@@ -43,3 +43,5 @@ There are multiple places you can share your solution:
 ## Creditos por el diseño y reto.
 
 Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.frontendmentor.io)
+# retosPlatziweb1
+Reto numero 1 de la escuela de diseño web. Para practicar nuestros conocimientos adquiridos 
